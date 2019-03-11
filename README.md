@@ -2,7 +2,7 @@
 Multiple choice Futurama Quotes game
 
 A Futurama quote game in which the player guesses who said a given quote from the show.
-Run playGame() function to start.
+Run the playGame() function in futurama_quotes_1.1.py to start.
 Quotes are randomly selected and are asked only once.
 Multiple choice answers (names) are randomly populated from a list of names.
 Points are assigned (and kept track of) based on the difficulty of a given quote.
