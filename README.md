@@ -1,7 +1,7 @@
 # Futurama-Quotes-Game
 Multiple choice Futurama Quotes game
 
-A Futurama quote game in which the player guesses who said a given quote from the show.
+A Futurama quote game in which the player guesses who said a given quote from the show.\n
 Run playGame() function to start.
 Quotes are randomly selected and are asked only once.
 Multiple choice answers (names) are randomly populated from a list of names.
